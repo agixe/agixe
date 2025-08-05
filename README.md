@@ -28,10 +28,3 @@ Interests:
 ---
 [![Website](https://img.shields.io/badge/Website-agixe.dev-blue?style=for-the-badge&logo=google-chrome)](https://agixe.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agixe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/agixe)
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agixe/agixe/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agixe/agixe/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/agixe/agixe/output/github-contribution-grid-snake.svg" />
-</picture>
