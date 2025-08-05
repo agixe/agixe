@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi there, I'm Agus Kurniawan (aka agixe) — Welcome to My GitHub Profile!
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hello,%20I'm%20Agixe!&fontSize=40&fontAlignY=35&desc=Fullstack%20Web%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=60)
 
-**agixe/agixe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+### 🧠 About Me
+```yaml
+Name: Agus Kurniawan
+Nickname: agixe
+Location: Indonesia 🌏
+Roles:
+  - 💻 Fullstack Web Developer
+  - 🤖 AI & Automation Enthusiast
+  - 🧩 Problem Solver
