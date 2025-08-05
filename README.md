@@ -13,3 +13,6 @@ Roles:
   - 💻 Fullstack Web Developer
   - 🤖 AI & Automation Enthusiast
   - 🧩 Problem Solver
+<img src="https://raw.githubusercontent.com/agixe/agixe/output/snake.svg" alt="Snake animation" />
+
+###
