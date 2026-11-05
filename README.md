@@ -1,30 +1,28 @@
-## 👋 Hi there, I'm Agus Kurniawan (aka agixe) — Welcome to My GitHub Profile!
+<div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hello,%20I'm%20Agixe!&fontSize=40&fontAlignY=35&desc=Fullstack%20Web%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=60)
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C9FF,92FE9D&height=200&section=header&text=Agus%20Kurniawan&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20System%20Architect%20%7C%20Security%20Enthusiast&descAlignY=60" width="100%" alt="Header Banner" />
 
-### 🧠 About Me
+  <!-- Social Badges -->
+  <a href="https://blangkonkoding.com">
+    <img src="https://img.shields.io/badge/Website-blangkonkoding.com-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/agixe">
+    <img src="https://img.shields.io/badge/GitHub-agixe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Agus%20Kurniawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
+
+<br />
+
+### 👨‍💻 About Me
+
 ```yaml
-Name: Agus Kurniawan
-Nickname: agixe
-Location: Indonesia 🌏
-Roles:
-  - 💻 Fullstack Web Developer
-  - 🤖 AI & Automation Enthusiast
-  - 🧩 Problem Solver
-Interests:
-  - 🚀 Open Source
-  - 📚 Continuous Learning
-  - 🌐 Web Technologies
-  - 🛠️ Building Useful Tools
-```
-
-### 💡 Skills
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,linux,figma" /> </p>
-
----
-### 📊 GitHub Stats
-![Agixe's GitHub stats](https://github-readme-stats.vercel.app/api?username=agixe&show_icons=true&theme=radical)
-
----
-[![Website](https://img.shields.io/badge/Website-agixe.dev-blue?style=for-the-badge&logo=google-chrome)](https://agixe.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-agixe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/agixe)
+Developer: Agus Kurniawan (agixe)
+Focus: Full-Stack Web Development, System Architecture & Security
+Location: Indonesia 🇮🇩
+Core Stack: PHP (CodeIgniter / Laravel), MySQL, JavaScript, Server Management
+Passions: Web Security, System Automation, Building Scalable Local Gov & Enterprise Systems
