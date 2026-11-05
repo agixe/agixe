@@ -1,4 +1,5 @@
-## Full-Stack Web Developer & IoT Enthusiast 🚀
-Specializing in Custom Web Systems, Web Security & Hardening, and Smart IoT Solutions (Arduino/NodeMCU).
+## 👨‍💻 Full-Stack Developer | System Architecture & Web Security
 
+Building Custom Web Applications, Enterprise Systems, and Secure Digital Solutions.
 
+I focus on developing scalable web applications, backend systems, database architecture, web security, and IoT integrations.
